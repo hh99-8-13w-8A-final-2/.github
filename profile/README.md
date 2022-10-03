@@ -21,13 +21,13 @@
 ## 🔭목차 | Contents
 1. [개발기간 | Project Period](#-개발기간--project-period)
 2. [아키텍쳐 | Architecture](#-아키텍쳐--architecture)
-3. [주요 API 기능 | Main API](#-주요-api-기능--main-api)
+3. [주요 기능 | Main Function](#-주요-기능--Main-Function)
 4. [개발환경 | Development Enviornment](#-개발환경--development-environment)
 5. [라이브러리 | Library](#-라이브러리--library)
 6. [ERD](#-erd)
-7. [기술적 챌린지 | Trouble shooting](#-기술적-챌린지--trouble-shooting)
-8. [백엔드 팀원 | BE TEAM](#-백엔드-팀원--be-team)
-9. [More Info](#-more-info)
+7. [트러블 슈팅| Trouble shooting](#-트러블-슈팅--trouble-shooting)
+8. [ 팀원 | TEAM](#-팀원--team)
+
 <br>
 
 
